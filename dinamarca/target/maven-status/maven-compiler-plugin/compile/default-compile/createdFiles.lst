@@ -1,0 +1,8 @@
+com/app/backend/application/controller/ApplicationController.class
+com/app/backend/application/service/ApplicationService.class
+com/app/backend/shared/converters/Converters.class
+com/app/backend/persistence/repositories/ApplicationRepository.class
+com/app/backend/PropertiesApplication.class
+com/app/backend/utilities/DTO/ApplicationDTO.class
+com/app/backend/BackendApplication.class
+com/app/backend/persistence/domain/Application.class

@@ -1,0 +1,8 @@
+/home/mercurio/git_workspace/ApplicationBoot/ApplicationBoot/src/main/java/com/app/backend/BackendApplication.java
+/home/mercurio/git_workspace/ApplicationBoot/ApplicationBoot/src/main/java/com/app/backend/PropertiesApplication.java
+/home/mercurio/git_workspace/ApplicationBoot/ApplicationBoot/src/main/java/com/app/backend/shared/converters/Converters.java
+/home/mercurio/git_workspace/ApplicationBoot/ApplicationBoot/src/main/java/com/app/backend/application/controller/ApplicationController.java
+/home/mercurio/git_workspace/ApplicationBoot/ApplicationBoot/src/main/java/com/app/backend/utilities/DTO/ApplicationDTO.java
+/home/mercurio/git_workspace/ApplicationBoot/ApplicationBoot/src/main/java/com/app/backend/persistence/repositories/ApplicationRepository.java
+/home/mercurio/git_workspace/ApplicationBoot/ApplicationBoot/src/main/java/com/app/backend/application/service/ApplicationService.java
+/home/mercurio/git_workspace/ApplicationBoot/ApplicationBoot/src/main/java/com/app/backend/persistence/domain/Application.java
